@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabseInsertApp", "DatabseInsertApp\DatabseInsertApp.csproj", "{2C2B2BB5-1EC5-49E6-839B-010280356003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C2B2BB5-1EC5-49E6-839B-010280356003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2B2BB5-1EC5-49E6-839B-010280356003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2B2BB5-1EC5-49E6-839B-010280356003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2B2BB5-1EC5-49E6-839B-010280356003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F52846C6-3F57-42FD-B36D-7A01D4098796}
+	EndGlobalSection
+EndGlobal
